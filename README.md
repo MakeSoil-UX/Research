@@ -42,6 +42,7 @@ We need:
 	+ 
 + Platform?
 	+ ?
++ Which part of the application?
 
 ## Challenges ##
 
