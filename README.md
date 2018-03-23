@@ -4,18 +4,14 @@
 
 | Name                 	| Role		    | Contribution |
 | :---                 	| :---         	| :---         |
-| Gautami Khandekar	   	|	|	|
-| Gang Zhang		   	|	|	|
-| Akanksha Singh	   	|	|	|
-| Na Wen				| 	|	|
-| Shikhar Sharma   		|	|	|
-| Xiangqing Ding		|	|	|
+| Gautami Khandekar	   	| Facilitator|  Problem / Opportunity	|
+| Gang Zhang		   	| Member |	Target |
+| Akanksha Singh	   	| Member |  Expert Note	|
+| Na Wen				| Member |	Challenge |
+| Shikhar Sharma   		| Member |	Problem / Opportunity |
+| Xiangqing Ding		| Member |	Experience Map |
 
-We need:
 
-+  A decider: make all decision (could be our client)
-+  A facilitator: schedule and record team meeting, gather all questions and contact client
- 
 
 ## Objective ##
 
@@ -43,6 +39,10 @@ We need:
 + Platform?
 	+ ?
 + Which part of the application?
+
+## Experience Map ##
+
+An experience map is a visualization of an entire end-to-end experience that a “generic” person goes through in order to accomplish a goal. This experience is agnostic of a specific business or product. It’s used for understanding a general human behavior (as opposed to a customer journey map, which is more specific and focused on related to a specific business).
 
 ## Challenges ##
 
