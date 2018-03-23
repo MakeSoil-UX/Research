@@ -37,7 +37,8 @@ As fresh designers, not only will there be a steep learning curve to mastering t
 
 ## Experience Map ##
 
-![](./Experience Map.png)
+![](./Experience%20Map.png)
+
 
 ### Description ###
 
